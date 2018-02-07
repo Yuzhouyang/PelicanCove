@@ -1,0 +1,13 @@
+Integers:  {...,-2,-1,0,1,2,3...}
+   The product of two negative integers is a positive integer.
+   Proof: 3=additive inverse of -3 [cos adding them up = 0    
+          3x3=a.i.of -3x3 [cos adding 3x3 to -3x3 = 0]
+          12=3x4=a.i.of -3x4 = 4x-3 = a.i.of -4x-3= a.i of -(-12)= -12
+          what on earth
+          That's as good as saying a.i of 12 is -12, a.i. of -(-12)=-12 so 12=-(-12) so -3x-4=3x4
+   Proof2: (-2)x(-3)=6 cos (-2)x0=0
+                           (-2)x(3+(-3))=0
+                           (-2x3)+(-2)(-3)=0
+                           (-6)+(-2)(-3)=0
+                                (-2)(-3)=6
+                                
